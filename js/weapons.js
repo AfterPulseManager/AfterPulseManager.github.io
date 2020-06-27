@@ -114,8 +114,8 @@
           for(i=0; i < seriesArray.length; i++){
             for (var seriesName in series) {
               if (seriesName == dir_series){
-                for (var rankVal in series[seriesName]){
-                  if(rankVal == seriesArray[i]) {
+                for (var weaponsName in series[seriesName]){
+                  if(weaponsName == seriesArray[i] && series[seriesName][weaponsName] == dir_rank) {
                       imgObj.push(seriesArray[i]);
                   }
                 }
