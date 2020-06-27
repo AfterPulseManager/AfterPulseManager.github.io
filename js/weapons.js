@@ -17,28 +17,29 @@
         alert("武器種類を選択してください。");
       }else{
       
-        var imgFile = checkFile(dir_series, dir_type);
+        var seriesArray = checkSeries(dir_series, dir_type);
+        var rankArray = checkRank(seriesArray, dir_rank);
         
-        if(Object.keys(imgFile).length == 0) {
+        if(Object.keys(seriesArray).length == 0) {
           document.getElementById("image").style.visibility = "visible";
           document.getElementById("next").disabled = "true";
           document.getElementById("back").disabled = "true";
           document.getElementById("image").src = "./images/weapons/noImage"+extension;
           document.getElementById("bigImage").href = "./images/weapons/noImage"+extension;
     
-        }else if(Object.keys(imgFile).length == 1){
+        }else if(Object.keys(seriesArray).length == 1){
           document.getElementById("image").style.visibility = "visible";
           document.getElementById("next").disabled = "true";
           document.getElementById("back").disabled = "true";
-          document.getElementById("image").src = dir_base+imgFile[0]+dir_rank+extension;
-          document.getElementById("bigImage").href = dir_base+imgFile[0]+dir_rank+extension;
+          document.getElementById("image").src = dir_base+seriesArray[0]+dir_rank+extension;
+          document.getElementById("bigImage").href = dir_base+seriesArray[0]+dir_rank+extension;
           
         }else{
           document.getElementById("image").style.visibility = "visible";
           document.getElementById("next").disabled = "";
           document.getElementById("back").disabled = "true";
-          document.getElementById("image").src = dir_base+imgFile[0]+dir_rank+extension;
-          document.getElementById("bigImage").href = dir_base+imgFile[0]+dir_rank+extension;
+          document.getElementById("image").src = dir_base+seriesArray[0]+dir_rank+extension;
+          document.getElementById("bigImage").href = dir_base+seriesArray[0]+dir_rank+extension;
         }
         
         document.getElementById("series").setAttribute("disabled", true);
@@ -56,18 +57,18 @@
       
       var extension = ".jpg";
       
-      var imgFile = checkFile(dir_series, dir_type);
+      var seriesArray = checkSeries(dir_series, dir_type);
       
       count += num;
       
-      document.getElementById("image").src = dir_base+imgFile[count]+dir_rank+extension;
-      document.getElementById("bigImage").href = dir_base+imgFile[count]+dir_rank+extension;
+      document.getElementById("image").src = dir_base+seriesArray[count]+dir_rank+extension;
+      document.getElementById("bigImage").href = dir_base+seriesArray[count]+dir_rank+extension;
       
-      if(count == imgFile.length - 1){
+      if(count == seriesArray.length - 1){
         document.getElementById("next").disabled = "true";
         document.getElementById("back").disabled = "";
 
-      }else if(0 < count && count < imgFile.length - 1){
+      }else if(0 < count && count < seriesArray.length - 1){
         document.getElementById("next").disabled = "";
         document.getElementById("back").disabled = "";
 
@@ -78,7 +79,7 @@
       }
     }
     
-   function checkFile(dir_series, dir_type){
+   function checkSeries(dir_series, dir_type){
        var imgObj = new Array();
        
        $.ajaxSetup({async: false});
@@ -92,6 +93,29 @@
                   }
                 }                  
               }              
+            }
+          }
+        });
+        $.ajaxSetup({async: true});
+        
+        return imgObj;
+   }
+   
+    function checkRank(seriesArray, dir_rank){
+        var imgObj = new Array();
+
+        $.ajaxSetup({async: false});
+        $.getJSON("json/rank.json", function(series){
+          for(i=0; i < seriesArray.length; i++){
+            for (var seriesName in series) {
+              if (seriesName == seriesArray[i]){
+                for (var rankVal in series[rank]){
+                  if(rankVal == dir_rank) {
+                    for(j=0; j < series[seriesName][rankVal].rank.length; j++)
+                      imgObj.push(series[seriesName][rankVal].rank[j]);
+                  }
+                }
+              }
             }
           }
         });
