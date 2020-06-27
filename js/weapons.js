@@ -18,6 +18,7 @@
       }else{
       
         var seriesArray = checkSeries(dir_series, dir_type);
+        seriesArray =  checkRank(seriesArray, dir_series, dir_rank);
         
         if(Object.keys(seriesArray).length == 0) {
           document.getElementById("image").style.visibility = "visible";
@@ -114,7 +115,7 @@
               if (seriesName == dir_series){
                 for (var rankVal in series[seriesName]){
                   if(rankVal == seriesArray[i]) {
-                      imgObj.push(series[seriesName][rankVal].rank);
+                      seriesArray[i]);
                   }
                 }
               }
