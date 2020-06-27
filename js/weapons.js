@@ -18,12 +18,12 @@
       }else{
       
         var seriesArray = checkSeries(dir_series, dir_type);
-        var rankArray = checkRank(seriesArray, dir_rank);
         
         if(Object.keys(seriesArray).length == 0) {
           document.getElementById("image").style.visibility = "visible";
           document.getElementById("next").disabled = "true";
-          document.getElementById("back").disabled = "true";
+          document.getElementById("back").disabled = "true";button
+          document.getElementById("button").disabled = "true";
           document.getElementById("image").src = "./images/weapons/noImage"+extension;
           document.getElementById("bigImage").href = "./images/weapons/noImage"+extension;
     
@@ -31,6 +31,7 @@
           document.getElementById("image").style.visibility = "visible";
           document.getElementById("next").disabled = "true";
           document.getElementById("back").disabled = "true";
+          document.getElementById("button").disabled = "true";
           document.getElementById("image").src = dir_base+seriesArray[0]+dir_rank+extension;
           document.getElementById("bigImage").href = dir_base+seriesArray[0]+dir_rank+extension;
           
@@ -38,6 +39,7 @@
           document.getElementById("image").style.visibility = "visible";
           document.getElementById("next").disabled = "";
           document.getElementById("back").disabled = "true";
+          document.getElementById("button").disabled = "true";
           document.getElementById("image").src = dir_base+seriesArray[0]+dir_rank+extension;
           document.getElementById("bigImage").href = dir_base+seriesArray[0]+dir_rank+extension;
         }
@@ -63,6 +65,7 @@
       
       document.getElementById("image").src = dir_base+seriesArray[count]+dir_rank+extension;
       document.getElementById("bigImage").href = dir_base+seriesArray[count]+dir_rank+extension;
+      document.getElementById("button").disabled = "true";
       
       if(count == seriesArray.length - 1){
         document.getElementById("next").disabled = "true";
@@ -101,18 +104,17 @@
         return imgObj;
    }
    
-    function checkRank(seriesArray, dir_rank){
+    function checkRank(seriesArray, dir_series, dir_rank){
         var imgObj = new Array();
 
         $.ajaxSetup({async: false});
         $.getJSON("json/rank.json", function(series){
           for(i=0; i < seriesArray.length; i++){
             for (var seriesName in series) {
-              if (seriesName == seriesArray[i]){
-                for (var rankVal in series[rank]){
-                  if(rankVal == dir_rank) {
-                    for(j=0; j < series[seriesName][rankVal].rank.length; j++)
-                      imgObj.push(series[seriesName][rankVal].rank[j]);
+              if (seriesName == dir_series){
+                for (var rankVal in series[seriesName]){
+                  if(rankVal == seriesArray[i]) {
+                      imgObj.push(series[seriesName][rankVal].rank);
                   }
                 }
               }
