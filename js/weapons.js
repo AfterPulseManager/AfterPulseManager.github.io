@@ -115,7 +115,7 @@
               if (seriesName == dir_series){
                 for (var rankVal in series[seriesName]){
                   if(rankVal == seriesArray[i]) {
-                      seriesArray[i]);
+                      img.push(seriesArray[i]);
                   }
                 }
               }
