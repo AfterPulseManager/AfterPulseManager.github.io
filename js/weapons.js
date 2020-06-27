@@ -1,4 +1,4 @@
-  
+
     var count = 0;
   
     function reset(){
@@ -13,8 +13,8 @@
       var dir_base = "./images/weapons/"+dir_type+"/"+dir_series+"/";
       var extension = ".jpg";
       
-      if(dir_type == "ZERO"){
-        alert("武器種類を選択してください。");
+      if(dir_type == "ZERO" || dir_rank == "ZERO"){
+        alert("武器種類及びランクを選択してください。");
       }else{
       
         var seriesArray = checkSeries(dir_series, dir_type);
@@ -126,4 +126,3 @@
         
         return imgObj;
    }
-    
