@@ -60,8 +60,8 @@
       
       count += num;
       
-      document.getElementById("image").src = dir_base+imgFile[count]+extension;
-      document.getElementById("bigImage").href = dir_base+imgFile[count]+extension;
+      document.getElementById("image").src = dir_base+imgFile[count]+dir_rank+extension;
+      document.getElementById("bigImage").href = dir_base+imgFile[count]+dir_rank+extension;
       
       if(count == imgFile.length - 1){
         document.getElementById("next").disabled = "true";
