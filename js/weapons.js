@@ -46,6 +46,7 @@
         }
         
         document.getElementById("series").setAttribute("disabled", true);
+        document.getElementById("rank").setAttribute("disabled", true);
         document.getElementById("type").setAttribute("disabled", true);
       }
     }
