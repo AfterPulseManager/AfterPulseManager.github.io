@@ -19,8 +19,8 @@
         document.getElementById("next").disabled = "true";
         document.getElementById("back").disabled = "true";
         document.getElementById("button").disabled = "true";
-        document.getElementById("image").src = "./images/weapons/noImage"+extension;
-        document.getElementById("bigImage").href = "./images/weapons/noImage"+extension;
+        document.getElementById("image").src = "./images/weapons/noImage.jpg";
+        document.getElementById("bigImage").href = "./images/weapons/noImage.jpg";
     
       }else if(Object.keys(weaponsUrl).length == 1){
         document.getElementById("image").style.visibility = "visible";
