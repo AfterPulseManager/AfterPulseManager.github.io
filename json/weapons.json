@@ -1,0 +1,1512 @@
+[
+  {
+    "name": "A500",
+    "type": "AR",
+    "series": "CARBON",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CARBON/A500_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "A500",
+    "type": "AR",
+    "series": "CARBON",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CARBON/A500_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "A500",
+    "type": "AR",
+    "series": "CARBON",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CARBON/A500_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "A500",
+    "type": "AR",
+    "series": "CARBON",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CARBON/A500_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AARS-15",
+    "type": "AR",
+    "series": "ATOM",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/ATOM/AARS-15_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AARS-15",
+    "type": "AR",
+    "series": "ATOM",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/ATOM/AARS-15_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "AARS-15",
+    "type": "AR",
+    "series": "ATOM",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/ATOM/AARS-15_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AC30",
+    "type": "AR",
+    "series": "CINNABAR",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CINNABAR/AC30_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AC30",
+    "type": "AR",
+    "series": "CINNABAR",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CINNABAR/AC30_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AC30",
+    "type": "AR",
+    "series": "CINNABAR",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CINNABAR/AC30_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "AC30",
+    "type": "AR",
+    "series": "CINNABAR",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CINNABAR/AC30_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "ACL-08",
+    "type": "LMG",
+    "series": "CARBON",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/CARBON/ACL-08_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "ACL-08",
+    "type": "LMG",
+    "series": "CARBON",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/CARBON/ACL-08_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "ACL-08",
+    "type": "LMG",
+    "series": "CARBON",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/CARBON/ACL-08_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "ACL-08",
+    "type": "LMG",
+    "series": "CARBON",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/CARBON/ACL-08_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AG10",
+    "type": "AR",
+    "series": "VETERAN",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/VETERAN/AG10_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AG10",
+    "type": "AR",
+    "series": "VETERAN",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/VETERAN/AG10_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AG10",
+    "type": "AR",
+    "series": "VETERAN",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/VETERAN/AG10_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "AG10",
+    "type": "AR",
+    "series": "VETERAN",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/VETERAN/AG10_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AGK-37",
+    "type": "LMG",
+    "series": "SHAMROCK",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/SHAMROCK/AGK-37_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AGK-37",
+    "type": "LMG",
+    "series": "SHAMROCK",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/SHAMROCK/AGK-37_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AGK-37",
+    "type": "LMG",
+    "series": "SHAMROCK",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/SHAMROCK/AGK-37_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "AGK-37",
+    "type": "LMG",
+    "series": "SHAMROCK",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/SHAMROCK/AGK-37_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AGK-37",
+    "type": "LMG",
+    "series": "VETERAN",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/VETERAN/AGK-37_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AGK-37",
+    "type": "LMG",
+    "series": "VETERAN",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/VETERAN/AGK-37_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "AGK-37",
+    "type": "LMG",
+    "series": "VETERAN",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/VETERAN/AGK-37_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "AGK-37",
+    "type": "LMG",
+    "series": "VETERAN",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/VETERAN/AGK-37_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "ATALANTA",
+    "type": "SR",
+    "series": "AWD",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/AWD/ATALANTA_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "ATALANTA",
+    "type": "SR",
+    "series": "AWD",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/AWD/ATALANTA_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "ATALANTA",
+    "type": "SR",
+    "series": "AWD",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/AWD/ATALANTA_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "ATALANTA",
+    "type": "SR",
+    "series": "AWD",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/AWD/ATALANTA_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "BTT50",
+    "type": "SR",
+    "series": "NORMAL",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/NORMAL/BTT50_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "BTT50",
+    "type": "SR",
+    "series": "NORMAL",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/NORMAL/BTT50_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "BTT50",
+    "type": "SR",
+    "series": "NORMAL",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/NORMAL/BTT50_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "BTT50",
+    "type": "SR",
+    "series": "WINTER",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/WINTER/BTT50_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "BTT50",
+    "type": "SR",
+    "series": "WINTER",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/WINTER/BTT50_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "BTT50",
+    "type": "SR",
+    "series": "WINTER",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/WINTER/BTT50_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "CQR2000",
+    "type": "AR",
+    "series": "AWD",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/AWD/CQR2000_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "CQR2000",
+    "type": "AR",
+    "series": "AWD",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/AWD/CQR2000_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "CQR2000",
+    "type": "AR",
+    "series": "AWD",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/AWD/CQR2000_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "CQR2000",
+    "type": "AR",
+    "series": "AWD",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/AWD/CQR2000_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "CQR2000",
+    "type": "AR",
+    "series": "PANTHER",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/PANTHER/CQR2000_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "CQR2000",
+    "type": "AR",
+    "series": "PANTHER",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/PANTHER/CQR2000_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "CQR2000",
+    "type": "AR",
+    "series": "PANTHER",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/PANTHER/CQR2000_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "CQR2000",
+    "type": "AR",
+    "series": "PANTHER",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/PANTHER/CQR2000_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "DMR-17",
+    "type": "AR",
+    "series": "AWD",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/AWD/DMR-17_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "DMR-17",
+    "type": "AR",
+    "series": "AWD",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/AWD/DMR-17_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "DMR-17",
+    "type": "AR",
+    "series": "AWD",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/AWD/DMR-17_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "DMR-17",
+    "type": "AR",
+    "series": "AWD",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/AWD/DMR-17_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "DS-117",
+    "type": "SG",
+    "series": "CINNABAR",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SG/CINNABAR/DS-117_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "DS-117",
+    "type": "SG",
+    "series": "CINNABAR",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SG/CINNABAR/DS-117_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "DS-117",
+    "type": "SG",
+    "series": "CINNABAR",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SG/CINNABAR/DS-117_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "FMBOBCAT",
+    "type": "AR",
+    "series": "CINNABAR",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CINNABAR/FMBOBCAT_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "FMBOBCAT",
+    "type": "AR",
+    "series": "CINNABAR",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CINNABAR/FMBOBCAT_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "FMBOBCAT",
+    "type": "AR",
+    "series": "CINNABAR",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/CINNABAR/FMBOBCAT_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "FMBOBCAT",
+    "type": "AR",
+    "series": "JADE",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/JADE/FMBOBCAT_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "FMBOBCAT",
+    "type": "AR",
+    "series": "JADE",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/JADE/FMBOBCAT_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "FMBOBCAT",
+    "type": "AR",
+    "series": "JADE",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/JADE/FMBOBCAT_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "HMG24",
+    "type": "LMG",
+    "series": "AWD",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/AWD/HMG24_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "HMG24",
+    "type": "LMG",
+    "series": "AWD",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/AWD/HMG24_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "HMG24",
+    "type": "LMG",
+    "series": "AWD",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/AWD/HMG24_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "HMG24",
+    "type": "LMG",
+    "series": "AWD",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/AWD/HMG24_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "IZU-G",
+    "type": "SMG",
+    "series": "OWL",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/OWL/IZU-G_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "IZU-G",
+    "type": "SMG",
+    "series": "OWL",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/OWL/IZU-G_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "IZU-G",
+    "type": "SMG",
+    "series": "OWL",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/OWL/IZU-G_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "IZU-G",
+    "type": "SMG",
+    "series": "OWL",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/OWL/IZU-G_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "KBS-4YETI",
+    "type": "SG",
+    "series": "NORMAL",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SG/NORMAL/KBS-4YETI_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "KBS-4YETI",
+    "type": "SG",
+    "series": "NORMAL",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SG/NORMAL/KBS-4YETI_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "KBS-4YETI",
+    "type": "SG",
+    "series": "NORMAL",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SG/NORMAL/KBS-4YETI_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "KPK",
+    "type": "LMG",
+    "series": "HADRON",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/HADRON/KPK_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "KPK",
+    "type": "LMG",
+    "series": "HADRON",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/HADRON/KPK_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "KPK",
+    "type": "LMG",
+    "series": "HADRON",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/HADRON/KPK_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "KPK",
+    "type": "LMG",
+    "series": "HADRON",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/HADRON/KPK_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "LM-JOKE",
+    "type": "LMG",
+    "series": "JESTER",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/JESTER/LM-JOKE_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "LM-JOKE",
+    "type": "LMG",
+    "series": "JESTER",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/JESTER/LM-JOKE_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "LM-JOKE",
+    "type": "LMG",
+    "series": "JESTER",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/JESTER/LM-JOKE_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "M32",
+    "type": "SR",
+    "series": "NORMAL",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/NORMAL/M32_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "M32",
+    "type": "SR",
+    "series": "NORMAL",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/NORMAL/M32_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "M32",
+    "type": "SR",
+    "series": "NORMAL",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/NORMAL/M32_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "M32",
+    "type": "SR",
+    "series": "NORMAL",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/NORMAL/M32_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "M-461e",
+    "type": "LMG",
+    "series": "PATRIOT",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/PATRIOT/M-461e_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "M-461e",
+    "type": "LMG",
+    "series": "PATRIOT",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/PATRIOT/M-461e_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "M-461e",
+    "type": "LMG",
+    "series": "PATRIOT",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/LMG/PATRIOT/M-461e_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "MAVERICKLA1",
+    "type": "SR",
+    "series": "ATOM",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/ATOM/MAVERICKLA1_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "MAVERICKLA1",
+    "type": "SR",
+    "series": "ATOM",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/ATOM/MAVERICKLA1_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "MAVERICKLA1",
+    "type": "SR",
+    "series": "ATOM",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/ATOM/MAVERICKLA1_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "MAVERICKLA1",
+    "type": "SR",
+    "series": "ATOM",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/ATOM/MAVERICKLA1_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "MKM550",
+    "type": "SR",
+    "series": "CINNABAR",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/CINNABAR/MKM550_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "MKM550",
+    "type": "SR",
+    "series": "CINNABAR",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/CINNABAR/MKM550_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "MKM550",
+    "type": "SR",
+    "series": "CINNABAR",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/CINNABAR/MKM550_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "MKM550",
+    "type": "SR",
+    "series": "CINNABAR",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/CINNABAR/MKM550_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "MKM550",
+    "type": "SR",
+    "series": "DRAGON",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/DRAGON/MKM550_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "MKM550",
+    "type": "SR",
+    "series": "DRAGON",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/DRAGON/MKM550_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "MKM550",
+    "type": "SR",
+    "series": "DRAGON",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/DRAGON/MKM550_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "MKM550",
+    "type": "SR",
+    "series": "DRAGON",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/DRAGON/MKM550_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "CINNABAR",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/CINNABAR/NOX-K_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "CINNABAR",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/CINNABAR/NOX-K_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "CINNABAR",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/CINNABAR/NOX-K_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "CINNABAR",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/CINNABAR/NOX-K_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/NOX-K_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/NOX-K_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/NOX-K_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/NOX-K_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "JADE",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/JADE/NOX-K_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "JADE",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/JADE/NOX-K_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "JADE",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/JADE/NOX-K_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "NOX-K",
+    "type": "SMG",
+    "series": "JADE",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/JADE/NOX-K_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "PPM19",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/PPM19_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "PPM19",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/PPM19_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "PPM19",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/PPM19_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "PPM19",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/PPM19_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "RS300",
+    "type": "SR",
+    "series": "C_TRACE",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/C_TRACE/RS300_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "RS300",
+    "type": "SR",
+    "series": "C_TRACE",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/C_TRACE/RS300_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "RS300",
+    "type": "SR",
+    "series": "C_TRACE",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/C_TRACE/RS300_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "RS300",
+    "type": "SR",
+    "series": "C_TRACE",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/C_TRACE/RS300_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "RS300",
+    "type": "SR",
+    "series": "PATRIOT",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/PATRIOT/RS300_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "RS300",
+    "type": "SR",
+    "series": "PATRIOT",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/PATRIOT/RS300_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "RS300",
+    "type": "SR",
+    "series": "PATRIOT",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/PATRIOT/RS300_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "RS300",
+    "type": "SR",
+    "series": "PATRIOT",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/PATRIOT/RS300_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "SMILEY-9",
+    "type": "HG",
+    "series": "JESTER",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/HG/JESTER/SMILEY-9_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "SMILEY-9",
+    "type": "HG",
+    "series": "JESTER",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/HG/JESTER/SMILEY-9_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "SMILEY-9",
+    "type": "HG",
+    "series": "JESTER",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/HG/JESTER/SMILEY-9_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "SMR16",
+    "type": "AR",
+    "series": "HADRON",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/HADRON/SMR16_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "SMR16",
+    "type": "AR",
+    "series": "HADRON",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/HADRON/SMR16_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "SMR16",
+    "type": "AR",
+    "series": "HADRON",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/HADRON/SMR16_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "SMR16",
+    "type": "AR",
+    "series": "HADRON",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/AR/HADRON/SMR16_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "S-T3C",
+    "type": "SMG",
+    "series": "AWD",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/AWD/S-T3C_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "S-T3C",
+    "type": "SMG",
+    "series": "AWD",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/AWD/S-T3C_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "S-T3C",
+    "type": "SMG",
+    "series": "AWD",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/AWD/S-T3C_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "S-T3C",
+    "type": "SMG",
+    "series": "AWD",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/AWD/S-T3C_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "STRIKER50",
+    "type": "SR",
+    "series": "CINNABAR",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/CINNABAR/STRIKER50_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "STRIKER50",
+    "type": "SR",
+    "series": "CINNABAR",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/CINNABAR/STRIKER50_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "STRIKER50",
+    "type": "SR",
+    "series": "CINNABAR",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/CINNABAR/STRIKER50_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "STRIKER50",
+    "type": "SR",
+    "series": "DRAGON",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/DRAGON/STRIKER50_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "STRIKER50",
+    "type": "SR",
+    "series": "DRAGON",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/DRAGON/STRIKER50_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "STRIKER50",
+    "type": "SR",
+    "series": "DRAGON",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SR/DRAGON/STRIKER50_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "AWD",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/AWD/UNKCQB_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "AWD",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/AWD/UNKCQB_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "AWD",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/AWD/UNKCQB_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "AWD",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/AWD/UNKCQB_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/UNKCQB_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/UNKCQB_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/UNKCQB_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "DRAGON",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/DRAGON/UNKCQB_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "OWL",
+    "rank": "_4",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/OWL/UNKCQB_4.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "OWL",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/OWL/UNKCQB_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "OWL",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/OWL/UNKCQB_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "UNKCQB",
+    "type": "SMG",
+    "series": "OWL",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SMG/OWL/UNKCQB_7.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "WARLANDER",
+    "type": "SG",
+    "series": "NORMAL",
+    "rank": "_5",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SG/NORMAL/WARLANDER_5.jpg",
+    "exsist": "0"
+  },
+  {
+    "name": "WARLANDER",
+    "type": "SG",
+    "series": "NORMAL",
+    "rank": "_6",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SG/NORMAL/WARLANDER_6.jpg",
+    "exsist": "1"
+  },
+  {
+    "name": "WARLANDER",
+    "type": "SG",
+    "series": "NORMAL",
+    "rank": "_7",
+    "extension": ".jpg",
+    "base-url": "./images/weapons/",
+    "url": "./images/weapons/SG/NORMAL/WARLANDER_7.jpg",
+    "exsist": "0"
+  }
+]
