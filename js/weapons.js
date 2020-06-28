@@ -79,17 +79,17 @@
        $.ajaxSetup({async: false});
        $.getJSON("json/weapons.json", function(weapons){
           for (i=0; i<weapons.length; i++) {
-            if(dir_series == dir_rank == dir_type == "ZERO" && weapons[i].exsist == 1){
+            if(dir_series == "ZERO" && dir_rank == "ZERO" && dir_type == "ZERO" && weapons[i].exsist == 1){
                 imgObj.push(weapons[i].url);
-            }else if (dir_series == dir_rank== "ZERO" && weapons[i].exsist == 1){
+            }else if (dir_series == "ZERO" && dir_rank== "ZERO" && weapons[i].exsist == 1){
               if(dir_type == weapons[i].type){
                 imgObj.push(weapons[i].url);
               }
-            }else if(dir_series == dir_type== "ZERO" && weapons[i].exsist == 1){
+            }else if(dir_series == "ZERO" && dir_type== "ZERO" && weapons[i].exsist == 1){
               if(dir_rank == weapons[i].rank){
                 imgObj.push(weapons[i].url);
               }
-            }else if(dir_rank == dir_type== "ZERO" && weapons[i].exsist == 1){
+            }else if(dir_rank == "ZERO" && dir_type== "ZERO" && weapons[i].exsist == 1){
               if(dir_series == weapons[i].series){
                 imgObj.push(weapons[i].url);
               }
