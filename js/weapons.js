@@ -17,8 +17,7 @@
         alert("武器種類及びランクを選択してください。");
       }else{
       
-        var seriesArray = checkSeries(dir_series, dir_type);
-        seriesArray =  checkRank(seriesArray, dir_series, dir_rank);
+        var seriesArray = checkSeries(dir_series, dir_rank, dir_type);
         
         if(Object.keys(seriesArray).length == 0) {
           document.getElementById("image").style.visibility = "visible";
@@ -84,12 +83,13 @@
       }
     }
     
-   function checkSeries(dir_series, dir_type){
+   function checkSeries(dir_series, dir_rank, dir_type){
        var imgObj = new Array();
        
        $.ajaxSetup({async: false});
        $.getJSON("json/weapons.json", function(weapons){
           for (var type in weapons) {
+            console.log(type);
             if (type ==  dir_type){
               for (var series in weapons[type]){
                 if (series == dir_series){
@@ -106,24 +106,3 @@
         return imgObj;
    }
    
-    function checkRank(seriesArray, dir_series, dir_rank){
-        var imgObj = new Array();
-
-        $.ajaxSetup({async: false});
-        $.getJSON("json/rank.json", function(series){
-          for(i=0; i < seriesArray.length; i++){
-            for (var seriesName in series) {
-              if (seriesName == dir_series){
-                for (var weaponsName in series[seriesName]){
-                  if(weaponsName == seriesArray[i] && series[seriesName][weaponsName] == dir_rank) {
-                      imgObj.push(seriesArray[i]);
-                  }
-                }
-              }
-            }
-          }
-        });
-        $.ajaxSetup({async: true});
-        
-        return imgObj;
-   }
