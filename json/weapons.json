@@ -622,41 +622,41 @@
   {
     "name": "IZU-G",
     "type": "SMG",
-    "series": "OWL",
+    "series": "SHAMROCK",
     "rank": "_4",
     "extension": ".jpg",
     "base-url": "./images/weapons/",
-    "url": "./images/weapons/SMG/OWL/IZU-G_4.jpg",
+    "url": "./images/weapons/SMG/SHAMROCK/IZU-G_4.jpg",
     "exsist": 0
   },
   {
     "name": "IZU-G",
     "type": "SMG",
-    "series": "OWL",
+    "series": "SHAMROCK",
     "rank": "_5",
     "extension": ".jpg",
     "base-url": "./images/weapons/",
-    "url": "./images/weapons/SMG/OWL/IZU-G_5.jpg",
+    "url": "./images/weapons/SMG/SHAMROCK/IZU-G_5.jpg",
     "exsist": 0
   },
   {
     "name": "IZU-G",
     "type": "SMG",
-    "series": "OWL",
+    "series": "SHAMROCK",
     "rank": "_6",
     "extension": ".jpg",
     "base-url": "./images/weapons/",
-    "url": "./images/weapons/SMG/OWL/IZU-G_6.jpg",
+    "url": "./images/weapons/SMG/SHAMROCK/IZU-G_6.jpg",
     "exsist": 1
   },
   {
     "name": "IZU-G",
     "type": "SMG",
-    "series": "OWL",
+    "series": "SHAMROCK",
     "rank": "_7",
     "extension": ".jpg",
     "base-url": "./images/weapons/",
-    "url": "./images/weapons/SMG/OWL/IZU-G_7.jpg",
+    "url": "./images/weapons/SMG/SHAMROCK/IZU-G_7.jpg",
     "exsist": 0
   },
   {
