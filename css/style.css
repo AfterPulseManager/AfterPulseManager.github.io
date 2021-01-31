@@ -73,6 +73,19 @@ a:active, a:focus {outline:0;}
 	margin:0 auto;
 }
 
+.scroll{
+	height:80px;
+	overflow: auto;
+}
+
+.piclink li{
+  margin:5px;
+  background-color: #CCFFFF;
+}
+.piclink li a{
+  dispay:block;
+}
+
  img{
  	height:100%;
  	width:100%;
