@@ -35,7 +35,7 @@
        for (var count = 0; count < imgObj.length; count++) {
        
          var li = document.createElement('li');
-         var text = document.createTextNode(weaponsName[count]);
+         var text = document.createTextNode(imgObj[count]);
          
          li.appendChild(text);
          ul.appendChild(li);
