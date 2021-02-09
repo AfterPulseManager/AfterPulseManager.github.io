@@ -30,12 +30,12 @@
        imgObj = weaponsInfo[0];
        weaponsName = weaponsInfo[1];
        
-       var ul = document.getElementById('picturelink');
+       var ul = document.getElementById("picturelink");
        
        for (var count = 0; count < imgObj.length; count++) {
        
-         var li = document.createElement('li');
-         var text = document.createTextNode(imgObj[count]);
+         var li = document.createElement("li");
+         var text = document.createTextNode("<a href=\"" + imgObj[count]+ "\" target=\"_blank\" rel=\"noopener noreferrer\">"+ weaponsName[count] +"</a>");
          
          li.appendChild(text);
          ul.appendChild(li);
