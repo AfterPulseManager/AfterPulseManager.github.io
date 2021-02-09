@@ -35,7 +35,7 @@
        var ul = document.getElementById("picturelink");
    
        for (var count = 0; count < imgObj.length; count++) {
-         var newText = document.createTextNode(weaponsSeries[count]+ weaponsRank[count] + "_" +weaponsName[count]);
+         var newText = document.createTextNode("シリーズ名："weaponsSeries[count]+ "_ランク："weaponsRank[count] + "_武器名：" +weaponsName[count]);
          var newAnchor = document.createElement("a");
          newAnchor.appendChild(newText);
          newAnchor.setAttribute("href", imgObj[count]);
