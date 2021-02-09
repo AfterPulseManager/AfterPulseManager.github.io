@@ -14,7 +14,7 @@
       
       var weaponsInfo = searchWeaponsInfo(dir_series, dir_rank, dir_type);
       
-      createLink(weaponsInfo);
+      createLink(dir_series, dir_rank, weaponsInfo);
       
 
       document.getElementById("series").setAttribute("disabled", true);
@@ -22,7 +22,7 @@
       document.getElementById("type").setAttribute("disabled", true);
     }
  
-   function createLink(weaponsInfo){
+   function createLink(dir_series, dir_rank, weaponsInfo){
      var imgObj;
      var weaponsName;
    
@@ -31,13 +31,15 @@
        weaponsName = weaponsInfo[1];
        
        var ul = document.getElementById("picturelink");
+       var aTag = document.createElement("a");
        
        for (var count = 0; count < imgObj.length; count++) {
        
          var li = document.createElement("li");
-         var text = document.createTextNode(weaponsName[count]);
+         var linkID = dir_series + "_" + dir_rank + "_" + weaponsName[count];
+         aTag.href = imgObj[count];
          
-         li.appendChild(text);
+         li.appendChild(aTag + linkID);
          ul.appendChild(li);
        }
        
