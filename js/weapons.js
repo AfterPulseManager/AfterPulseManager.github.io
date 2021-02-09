@@ -37,8 +37,9 @@
        var newAnchor = document.createElement("a");
        
        for (var count = 0; count < imgObj.length; count++) {
-       
-         var newText = weaponsSeries[count].value + weaponsRank[count].value + "_" + weaponsName[count].value;
+         
+         var weaponsStr = weaponsSeries[count].value + weaponsRank[count].value + "_" + weaponsName[count].value;;
+         var newText = document.createTextNode(weaponsStr);
          newAnchor.appendChild(newText);
          newAnchor.setAttribute("href", imgObj[count]);
          newAnchor.setAttribute("target", "_blank");
