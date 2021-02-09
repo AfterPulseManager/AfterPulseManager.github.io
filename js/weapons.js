@@ -38,7 +38,7 @@
        
        for (var count = 0; count < imgObj.length; count++) {
        
-         var newText = weaponsSeries[count] + weaponsRank[count] + "_" + weaponsName[count];
+         var newText = weaponsSeries[count].value + weaponsRank[count].value + "_" + weaponsName[count].value;
          newAnchor.appendChild(newText);
          newAnchor.setAttribute("href", imgObj[count]);
          newAnchor.setAttribute("target", "_blank");
