@@ -35,7 +35,7 @@
        for (var count = 0; count < imgObj.length; count++) {
        
          var li = document.createElement("li");
-         var text = document.createTextNode("<a href=\"" + imgObj[count]+ "\" target=\"_blank\" rel=\"noopener noreferrer\">"+ weaponsName[count] +"</a>");
+         var text = document.createTextNode(weaponsName[count]);
          
          li.appendChild(text);
          ul.appendChild(li);
