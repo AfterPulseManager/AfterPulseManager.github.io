@@ -33,18 +33,15 @@
        weaponsSeries = weaponsInfo[3];
        
        var ul = document.getElementById("picturelink");
-       
-       var newAnchor = document.createElement("a");
-       
+   
        for (var count = 0; count < imgObj.length; count++) {
-         
-         var weaponsStr = weaponsSeries[count].value + weaponsRank[count].value + "_" + weaponsName[count].value;;
-         var newText = document.createTextNode(weaponsStr);
+         var newText = document.createTextNode(weaponsSeries[count]+ weaponsRank[count] + "_" +weaponsName[count]);
+         var newAnchor = document.createElement("a");
          newAnchor.appendChild(newText);
          newAnchor.setAttribute("href", imgObj[count]);
          newAnchor.setAttribute("target", "_blank");
          
-         var li = document.createElement('li');
+         var li = document.createElement("li");
          li.appendChild(newAnchor);
          ul.appendChild(li);
        }
